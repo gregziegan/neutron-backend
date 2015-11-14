@@ -1,0 +1,90 @@
+[
+  {
+    "fields": {
+      "name": "The Atlantic",
+      "url": "http://www.theatlantic.com/",
+      "bias": 30,
+      "created": "2015-09-16T9:26:24.658Z",
+      "edited": "2015-09-17T10:07:53.326Z"
+    },
+    "model": "neutron.newsOrganization",
+    "pk": 1
+  },
+  {
+    "fields": {
+      "name": "Fox News",
+      "url": "http://www.foxnews.com/",
+      "bias": 75,
+      "created": "2015-09-16T9:26:24.356Z",
+      "edited": "2015-09-17T10:07:53.286Z"
+    },
+    "model": "neutron.newsOrganization",
+    "pk": 2
+  },
+  {
+    "fields": {
+      "name": "Huffington Post",
+      "url": "http://www.huffingtonpost.com/",
+      "bias": 40,
+      "created": "2015-09-16T9:26:24.156Z",
+      "edited": "2015-09-17T10:07:53.186Z"
+    },
+    "model": "neutron.newsOrganization",
+    "pk": 3
+  },
+  {
+    "fields": {
+      "name": "The Blaze",
+      "url": "http://www.theblaze.com/",
+      "bias": 100,
+      "created": "2015-09-16T9:26:24.056Z",
+      "edited": "2015-09-17T10:07:53.086Z"
+    },
+    "model": "neutron.newsOrganization",
+    "pk": 4
+  },
+  {
+    "fields": {
+      "name": "NPR",
+      "url": "http://www.npr.org/",
+      "bias": 20,
+      "created": "2015-09-16T9:26:23.656Z",
+      "edited": "2015-09-17T10:07:52.386Z"
+    },
+    "model": "neutron.newsOrganization",
+    "pk": 5
+  },
+  {
+    "fields": {
+      "name": "Slate",
+      "url": "http://www.slate.com/",
+      "bias": 10,
+      "created": "2015-09-16T9:21:24.656Z",
+      "edited": "2015-09-17T10:08:53.386Z"
+    },
+    "model": "neutron.newsOrganization",
+    "pk": 6
+  },
+  {
+    "fields": {
+      "name": "Brietbart",
+      "url": "http://www.breitbart.com/",
+      "bias": 90,
+      "created": "2015-09-16T9:20:24.656Z",
+      "edited": "2015-09-17T10:17:53.386Z"
+    },
+    "model": "neutron.newsOrganization",
+    "pk": 7
+  },
+  {
+    "fields": {
+      "name": "Bloomberg",
+      "url": "http://www.bloomberg.com/",
+      "bias": 45,
+      "created": "2015-09-16T9:06:24.656Z",
+      "edited": "2015-09-17T10:27:53.386Z"
+    },
+    "model": "neutron.newsOrganization",
+    "pk": 8
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "fields": {
+      "url": "http://www.nbcdfw.com/news/local/Irving-Student-Says-Hes-Falsely-Accused-of-Making-a-Hoax-Bomb-327794401.html",
+      "reputability": 40,
+      "created": "2015-09-16T9:25:24.656Z",
+      "edited": "2015-09-17T10:37:53.386Z"
+    },
+    "model": "neutron.reference",
+    "pk": 1
+  },
+  {
+    "fields": {
+      "url": "http://www.thedailybeast.com/cheats/2015/09/16/cops-no-evidence-ahmed-meant-to-alarm.html",
+      "reputability": 35,
+      "created": "2015-09-16T9:22:24.656Z",
+      "edited": "2015-09-17T11:07:53.386Z"
+    },
+    "model": "neutron.reference",
+    "pk": 2
+  },
+  {
+    "fields": {
+      "url": "http://www.dallasnews.com/news/community-news/northwest-dallas-county/headlines/20150915-irving-ninth-grader-arrested-after-taking-homemade-clock-to-school.ece",
+      "reputability": 60,
+      "created": "2015-09-16T9:20:24.656Z",
+      "edited": "2015-09-17T10:00:53.386Z"
+    },
+    "model": "neutron.reference",
+    "pk": 3
+  },
+  {
+    "fields": {
+      "url": "http://www.irvingisd.net/cms/lib010/TX01917973/Centricity/Domain/9/ParentLetter_SuspiciousLookingItematMacArthur.pdf",
+      "reputability": 80,
+      "created": "2015-09-16T9:23:24.656Z",
+      "edited": "2015-09-17T10:12:53.386Z"
+    },
+    "model": "neutron.reference",
+    "pk": 4
+  },
+  {
+    "fields": {
+      "url": "http://northdallasgazette.com/2015/02/23/irving-resident-makes-his-second-bid-for-election-as-president-of-sudan/",
+      "reputability": 60,
+      "created": "2015-09-16T9:42:24.656Z",
+      "edited": "2015-09-17T10:44:53.386Z"
+    },
+    "model": "neutron.reference",
+    "pk": 5
+  },
+  {
+    "fields": {
+      "url": "http://www.christianpost.com/news/12-students-suspended-for-praying-at-school-26130/",
+      "reputability": 10,
+      "created": "2015-09-16T9:33:24.656Z",
+      "edited": "2015-09-17T10:21:54.386Z"
+    },
+    "model": "neutron.reference",
+    "pk": 6
+  }
+]
